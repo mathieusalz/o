@@ -1,1 +1,6 @@
-print("Hello World")
+name = input("What's your name:")
+name = len(name)
+if name > 5:
+  print("Your name is long")
+else:
+  print ("Your name is short")
