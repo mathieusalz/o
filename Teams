@@ -1,0 +1,44 @@
+team = input("What is your favorite team")
+team.title()
+if team == "Chelsea":
+  print("HAHAHA")
+elif team == "Liverpool":
+  print("YNWA")
+elif team == "Bournemouth":
+  print("At least they're better than chelsea")
+elif team == "Swansea City":
+  print("At least they're better than chelsea")
+elif team == "Manchester City":
+  print("At least they're better than chelsea")
+elif team == "Manchester United":
+  print("At least they're better than chelsea")
+elif team == "Arsenal":
+  print("At least they're better than chelsea")
+elif team == "Leicester City":
+  print("At least they're better than chelsea")
+elif team == "Norwich City":
+  print("At least they're better than chelsea")
+elif team == "Tottenham,":
+  print("At least they're better than chelsea")
+elif team == "Crystal Palace":
+  print("At least they're better than chelsea")
+elif team == "Newcastle United":
+  print("At least they're better than chelsea")
+elif team == "Sunderland":
+  print("At least they're better than chelsea")
+elif team == "Watford":
+  print("At least they're better than chelsea")
+elif team == "West Brom":
+  print("At least they're better than chelsea")
+elif team == "West Ham":
+  print("At least they're better than chelsea")
+elif team == "Stoke City":
+  print("At least they're better than chelsea")
+elif team == "Everton":
+  print("At least they're better than chelsea")
+elif team == "Southampton":
+  print("At least they're better than chelsea")
+elif team == "Aston Villa":
+  print("At least they're better than chelsea")
+else:
+  print("Put a team")
