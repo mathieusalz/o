@@ -1,7 +1,7 @@
 team = input("What is your favorite team")
 team.title()
 if team == "Chelsea":
-  print("HAHAHA")
+  print("Costa\nWillian - Fabregas - Hazard\nMikel - Matic\nIvanovic - Terry - Cahill- Azpi\nCourtois")
 elif team == "Liverpool":
   print("YNWA")
 elif team == "Bournemouth":
