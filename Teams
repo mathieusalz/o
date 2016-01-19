@@ -2,15 +2,15 @@ while True:
     team = input("What is your favorite team:")
     team = team.title()
     if team == "Chelsea":
-      print("TEAM SHEET:\nGOALKEEPERS:\n1 Begovic, 13 Courtois, 27 Blackman, 32 Amelia\nDEFENDERS:\n2 Ivanovic 5 Zouma 6 Baba 15 Djilobodji 24 Cahill 26 Terry 28 Azpilicueta 34 Aina")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Begovic - 13 Courtois - 27 Blackman - 32 Amelia\nDEFENDERS:\n2 Ivanovic - 5 Zouma - 6 Baba - 15 Djilobodji - 24 Cahill - 26 Terry - 28 Azpilicueta - 34 Aina"\nMIDFIELDERS:\n4 Fàbregas - 7 Ramires - 8 Oscar - 10 Hazard - 12 Mikel - 14 Traore - 21 Matic - 22 Willian - 36 Loftus-Cheek - Atsu\nFORWARDS:\n9 Falcao - 16 Kenedy - 17 Pedro - 18 Remy - 19 Diego Costa - Bamford)
     elif team == "Liverpool":
-      print("TEAM SHEET:\nGOALKEEPERS:\n22 Mignolet, 34 Bogdan, 39 Fulton, 52 Ward\nDEFENDERS:\n2 Clyne, 3 Jose Enrique, 4 K Touré, 6 Lovren, 12 Gomez, 17 Sakho, 18 Moreno, 19 Caulker, 26 Ilori, 35 Stewart, 37 Skrtel, 38 Flanagan, 44 Smith, 56 Randall, 57 Maguire, 58 Cleary, 87 Masterson\nMIDFIELDERS:\nMilner, 10 Coutinho, 14 Henderson, 20 Lallana, 21 Lucas, 23 Can, 24 Allen, 32 Brannagan, 33 Ibe, 40 Kent, 46 Rossiter, 53, J. Teixeira, 54 Ojo, 60 Rodrigues de Souza, 68 Chirivella\nFORWARDS:\n9 Benteke, 11 Firmino, 15 Sturridge, 27 Origi, 28 Ings, 48 Sinclair")
+      print("TEAM SHEET:\nGOALKEEPERS:\n22 Mignolet - 34 Bogdan - 39 Fulton - 52 Ward\nDEFENDERS:\n2 Clyne - 3 Jose Enrique - 4 K Touré - 6 Lovren - 12 Gomez - 17 Sakho - 18 Moreno - 19 Caulker - 26 Ilori - 35 Stewart - 37 Skrtel - 38 Flanagan - 44 Smith - 56 Randall - 57 Maguire - 58 Cleary - 87 Masterson\nMIDFIELDERS:\n7 Milner - 10 Coutinho - 14 Henderson - 20 Lallana - 21 Lucas - 23 Can - 24 Allen - 32 Brannagan - 33 Ibe - 40 Kent - 46 Rossiter - 53 J. Teixeira - 54 Ojo - 60 Rodrigues de Souza - 68 Chirivella\nFORWARDS:\n9 Benteke - 11 Firmino - 15 Sturridge - 27 Origi - 28 Ings - 48 Sinclair")
     elif team == "Bournemouth":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Boruc - 21 Allsop - 23 Federici\nDEFENDERS:\n2 Francis - 3 Cook - 5 Elphick - 11 Daniels - 14 Mings - 15 Smith - 22 Ward - 25 Distin - 38 Cargill - 40 Zubar - 43 Buckley - 47 Lee\nMIDFIELDERS:\n4 Gosling - 6 Surman - 7 Pugh - 8 Arter - 16 MacDonald - 19 Stanislas - 30 Ritchie - 32 O'Kane - 48 Wakefield\nFORWARDS:\n9 Rantie - 10 Gradel - 12 Iturbe - 13 Wilson - 17 King - 18 Kermorgant - 20 Afobe - 24 Tomlin - 27 Murray - 28 Grabban - 36 Butcher - 44 Surridge - 46 Green")
     elif team == "Swansea City":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\nFabianski - 13 Nordfeldt - 25 Tremmel\nDEFENDERS:\n2 Amat - 3 Taylor - 6 Williams - 14 Tabanou 22 Rangel - 26 Naughton - 27 Bartley - 32 Shephard - 33 Fernandez - 35 Kingsley - 61 Rodon\nMIDFIELDERS:\n4 Ki Sung-yueng - 7 Britton 10 Ayew - 15 Routledge - 20 Montero - 21 Grimes - 23 Sigurdsson - 24 Cork - 51 James - 56 Fulton\nFORWARDS:\n11 Emnes - 17 Éder - 18 Gomis -58 Barrow")
     elif team == "Manchester City":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Hart - 13 Caballero - 29 Wright\nDEFENDERS:\n3 Sagna - 4 Kompany - 5 Zabaleta - 11 Kolarov - 20 Mangala - 22 Clichy - 26 Demichelis - 30 Otamendi - 53 Adarabioyo - 77 Humphreys-Grant\nMIDFIELDERS:\n6 Fernando - 8 Nasri - 15 Jesús Navas - 17 De Bruyne - 18 Delph - 21 Silva - 25 Fernandinho - 27 Roberts - 36 Zuculini - 42 Y Touré - 59 Celina - 61 Horsfield - 62 Barker - 73 Glendon - 76 Garcia Alonso\nFORWARDS:\n7 Sterling - 10 Agüero - 14 Bony - 72 Iheanacho")
     elif team == "Manchester United":
       print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Arsenal":
