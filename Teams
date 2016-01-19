@@ -12,9 +12,9 @@ while True:
     elif team == "Manchester City":
       print("TEAM SHEET:\nGOALKEEPERS:\n1 Hart - 13 Caballero - 29 Wright\nDEFENDERS:\n3 Sagna - 4 Kompany - 5 Zabaleta - 11 Kolarov - 20 Mangala - 22 Clichy - 26 Demichelis - 30 Otamendi - 53 Adarabioyo - 77 Humphreys-Grant\nMIDFIELDERS:\n6 Fernando - 8 Nasri - 15 Jesús Navas - 17 De Bruyne - 18 Delph - 21 Silva - 25 Fernandinho - 27 Roberts - 36 Zuculini - 42 Y Touré - 59 Celina - 61 Horsfield - 62 Barker - 73 Glendon - 76 Garcia Alonso\nFORWARDS:\n7 Sterling - 10 Agüero - 14 Bony - 72 Iheanacho")
     elif team == "Manchester United":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 de Gea - 20 Romero\nDEFENDERS:\n4 Jones - 5 Rojo - 12 Smalling - 23 Shaw - 25 A Valencia - 30 Varela - 33 McNair - 36 Darmian - 38 Tuanzebe - 43 Borthwick-Jackson\nMIDFIELDERS:\n8 Mata - 11 Januzaj - 16 Carrick - 17 Blind - 18 Young - 21 Herrera - 22 Powell - 27 Fellaini - 28 Schneiderlin - 31 Schweinsteiger - 35 Lingard - 44 Pereira - 45 Goss - 47 Weir\nFORWARDS:\n7 Depay - 9 Martial - 10 Rooney - 39 Rashford - 48 Keane")
     elif team == "Arsenal":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n13 Ospina - 33 Cech - 49 Macey\nDEFENDERS:\n2 Debuchy - 3 Gibbs - 4 Mertesacker - 5 Gabriel - 6 Koscielny - 18 Monreal - 21 Chambers - 24 Bellerín\nMIDFIELDERS:\n7 Rosicky - 8 Arteta - 10 Wilshere - 11 Özil - 15 Oxlade-Chamberlain - 16 Ramsey - 19 Cazorla - 20 Flamini - 34 Coquelin - 35 Elneny - 36 Bennacer - 37 Bielik - 45 Iwobi - 47 Kamara - 56 Sheaf - 59 Willock\nFORWARDS:\12 Giroud - 14 Walcott - 17 Sánchez - 23 Welbeck - 28 Campbell - 54 Reine Adelaide")
     elif team == "Leicester City":
       print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Norwich City":
