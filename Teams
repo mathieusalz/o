@@ -16,31 +16,31 @@ while True:
     elif team == "Arsenal":
       print("TEAM SHEET:\nGOALKEEPERS:\n13 Ospina - 33 Cech - 49 Macey\nDEFENDERS:\n2 Debuchy - 3 Gibbs - 4 Mertesacker - 5 Gabriel - 6 Koscielny - 18 Monreal - 21 Chambers - 24 Bellerín\nMIDFIELDERS:\n7 Rosicky - 8 Arteta - 10 Wilshere - 11 Özil - 15 Oxlade-Chamberlain - 16 Ramsey - 19 Cazorla - 20 Flamini - 34 Coquelin - 35 Elneny - 36 Bennacer - 37 Bielik - 45 Iwobi - 47 Kamara - 56 Sheaf - 59 Willock\nFORWARDS:\12 Giroud - 14 Walcott - 17 Sánchez - 23 Welbeck - 28 Campbell - 54 Reine Adelaide")
     elif team == "Leicester City":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Schmeichel - 12 Hamer - 32 Schwarzer - 41 Maddison\nDEFENDERS:\n2 de Laet - 5 Morgan - 6 Huth - 17 Simpson - 18 Moore - 27 Wasilewski - 28 Fuchs - 29 Benalouane - 30 Chilwell\nMIDFIELDERS:\n4 Drinkwater - 8 James - 10 King - 11 Albrighton - 14 Kanté - 15 Schlupp - 24 Dyer - 26 Mahrez - 33 Inler - 39 Olukanmi\nFORWARDS:\n9 Vardy - 19 Kramaric - 20 Okazaki - 22 Gray - 23 Ulloa - 35 Blyth - 36 Dodoo - 38 Panayiotou")
     elif team == "Norwich City":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Ruddy - 13 Rudd\nDEFENDERS:\n2 Whittaker - 3 Wisdom - 5 Martin - 6 Bassong - 23 Olsson - 24 Bennett - 25 Pinto - Klose\nMIDFIELDERS:\n8 Howson - 12 Brady - 14 Hoolahan - 16 Jarvis - 18 Dorrans - 20 Andreu - 21 Mulumbu - 22 Redmond - 27 Tettey - 28 O'Neil - 32 Odjidja-Ofoe - 33 Thompson\nFORWARDS:\n7 Naismith - 9 Mbokani Bezua - 10 Jerome - 19 Lafferty")
     elif team == "Tottenham,":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Lloris - 13 Vorm - 31 McGee\nDEFENDERS:\n2 Walker - 3 Rose - 4 Alderweireld - 5 Vertonghen - 16 Trippier - 21 Fazio - 27 Wimmer - 33 Davies - 38 Carter-Vickers\nMIDFIELDERS:\n6 Bentaleb - 7 Son Heung-min - 8 Mason - 11 Lamela - 15 Dier - 17 Townsend - 19 Dembélé - 20 Alli - 22 Chadli - 23 Eriksen - 24 Pritchard - 25 Onomah - 28 Carroll - 29 Winks\nFORWARDS:\n10 Kane - 14 N'Jie")
     elif team == "Crystal Palace":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Speroni - 12 McCarthy - 13 Hennessey\nDEFENDERS:\n2 Ward - 3 Mariappa - 4 Hangeland - 5 McCarthy - 6 Dann - 19 Fryers - 23 Souaré - 27 Delaney - 34 Kelly - 44 Croll\nMIDFIELDERS:\n7 Cabaye - 10 Bolasie - 11 Zaha - 14 Lee Chung-yong - 15 Jedinak - 18 McArthur - 20 Williams - 22 Mutch - 26 Sako - 28 Ledley - 42 Puncheon\nFORWARDS:\n9 Campbell - 16 Gayle - 21 Wickham - 29 Chamakh")
     elif team == "Newcastle United":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Krul - 21 Elliot - 26 Darlow - 41 Woodman\nDEFENDERS:\n2 Coloccini - 3 Dummett - 6 Williamson - 15 Lascelles - 18 Mbemba - 19 Haidara - 22 Janmaat - 27 Taylor - 42 Sterry - 43 Mbabu\nMIDFIELDERS:\n4 Colback - 5 Wijnaldum - 7 Sissoko - 8 Anita - 10 de Jong - 11 Gouffran - 12 Shelvey - 14 Obertan - 16 Aarons - 20 Thauvin - 23 Saivet - 24 Tioté - 31 Marveaux\nFORWARDS:\n9 Cissé - 17 Pérez - 29 Riviere - 36 Toney - 45 Mitrovic - 47 Barlaser")
     elif team == "Sunderland":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n13 Pickford - 25 Mannone - 32 Stryjek\nDEFENDERS:\n2 Jones - 3 van Aanholt - 5 Brown - 12 Matthews - 15 Kaboul - 16 O'Shea - 22 Coates - 24 Yedlin - 27 Kirchhoff - 31 Beadling - 48 Robson Roberge\nMIDFIELDERS:\n6 Cattermole - 7 Larsson - 8 Rodwell - 11 Johnson - 14 Jordi Gómez - 20 Toivonen - 21 M'Vila - 28 Mavrias\nFORWARDS:\n9 Borini - 10 N'Doye - 17 Lens - 18 Defoe - 19 Graham - 26 Fletcher - 41 Watmore - 46 Gooch")
     elif team == "Watford":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Gomes - 13 Gilmartin - 34 Arlauskis - Pantilimon\nDEFENDERS:\n2 Nyom - 3 Britos - 5 Prödl - 6 Ekstrand - 14 Paredes - 15 Cathcart - 16 Aké - 25 Holebas - 27 Belkalem - 31 Hoban\nMIDFIELDERS:\n7 Jurado - 8 Behrami - 17 Guédioura - 21 Anya - 22 Abdi - 23 Watson - 28 Smith - 29 Capoue - 33 Dyer - Amrabat\nFORWARDS:\n9 Deeney - 10 Oularé - 19 Ibarbo - 20 Berghuis - 24 Ighalo")
     elif team == "West Brom":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Foster - 13 Myhill - 21 Lindegaard - 38 Rose\nDEFENDERS:\n3 Olsson - 4 Chester - 6 Evans - 15 Pocognoli - 16 Gamboa - 23 McAuley - 25 Dawson\nMIDFIELDERS:\n5 Yacob - 7 Morrison - 8 Gardner - 11 Brunt - 14 McClean - 19 McManaman - 24 Fletcher - 29 Sessegnon - 31 Gnabry - 44 Roberts - 45 Leko\nFORWARDS:\n10 Anichebe - 17 Lambert - 18 Berahino - 33 Rondón - 36 Nabi - 41 Ward - 42 Edwards")
     elif team == "West Ham":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Randolph - 13 Adrián - 34 Spiegel\nDEFENDERS:\n2 Reid - 3 Cresswell - 5 Tomkins - 12 Jenkinson - 17 O'Brien - 19 Collins - 21 Ogbonna - 25 Henry - 32 Burke - 35 Oxford - 46 Knoyle\nMIDFIELDERS:\n4 Song - 8 Kouyaté - 14 Obiang - 16 Noble - 20 Moses - 27 Payet - 28 Lanzini - 30 Antonio - 39 Cullen\nFORWARDS:\n9 Carroll - 10 Zárate - 11 E Valencia - 15 Sakho - 26 Jelavic - 40 Parfitt-Williams")
     elif team == "Stoke City":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Butland - 24 Given - 29 Haugaard - 35 Bachmann\nDEFENDERS:\n2 Bardsley - 3 Pieters - 5 Muniesa - 8 Johnson - 12 Wilson - 17 Shawcross - 20 Cameron - 23 Teixeira - 26 Wollscheid\nMIDFIELDERS:\n6 Whelan - 7 Ireland - 14 Afellay - 15 Van Ginkel - 16 Adam - 21 Sidwell - 22 Shaqiri - 30 El Ouriachi - 34 Shenton\nFORWARDS:\n9 Odemwingie - 10 Arnautovic - 11 Joselu - 18 Diouf - 19 Walters - 25 Crouch - 27 Krkic")
     elif team == "Everton":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Robles - 24 Howard - 36 Stanek\nDEFENDERS:\n2 Hibbert - 3 Baines - 5 Stones - 6 Jagielka - 8 Oviedo - 23 Coleman - 25 Funes Mori - 27 Browning - 30 Holgate - 32 Galloway - 38 Pennington\nMIDFIELDERS:\n4 Gibson - 7 McGeady - 11 Mirallas - 12 Lennon - 15 Cleverley - 16 McCarthy - 17 Besic - 18 Barry - 20 Barkley - 21 Osman - 22 Pienaar - 55 Francisco Júnior\nFORWARDS:\n9 Koné - 10 Lukaku - 19 Deulofeu - 28 Rodríguez v35 McAleny")
     elif team == "Southampton":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Davis - 22 Stekelenburg - 25 Gazzaniga - 44 Forster\nDEFENDERS:\n2 Soares - 3 Yoshida - 5 Gardos - 6 Fonte - 15 Martina - 17 van Dijk - 21 Bertrand - 24 Stephens - 33 Targett\nMIDFIELDERS:\n4 Clasie - 8 Davis - 10 Mané - 11 Tadic - 12 Wanyama - 14 Romeu - 16 Ward-Prowse - 18 Reed - 23 Ramírez - 38 McQueen\nFORWARDS:\n7 Long - 9 Rodriguez - 19 Pellè - 20 Juanmi - 28 Austin - 45 Seager")
     elif team == "Aston Villa":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Guzan - 31 Bunn - 41 Watkins\nDEFENDERS:\n4 Richards - 5 Okore - 6 Clark - 7 Bacuna - 14 Senderos - 16 Lescott - 18 Richardson - 21 Hutton - 23 Amavi - 33 Crespo - 34 Suliman - 43 Cissokho\nMIDFIELDERS:\n8 Gueye - 9 Sinclair - 15 Westwood - 17 Veretout - 24 Sánchez - 25 Gil - 28 N'Zogbia - 38 Lyden - 40 Grealish\nFORWARDS:\n11 Agbonlahor - 19 J Ayew - 20 Traoré - 27 Kozák - 35 Taylor - 36 Sellars - 39 Gestede")
     elif team == "Done":
         break
     else:
