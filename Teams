@@ -2,45 +2,45 @@ while True:
     team = input("What is your favorite team:")
     team = team.title()
     if team == "Chelsea":
-      print("")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Liverpool":
       print("TEAM SHEET:\nGOALKEEPERS:\n22 Mignolet, 34 Bogdan, 39 Fulton, 52 Ward\DEFENDERS:\n2 Clyne, 3 Jose Enrique, 4 K Touré, 6 Lovren, 12 Gomez, 17 Sakho, 18 Moreno, 19 Caulker, 26 Ilori, 35 Stewart, 37 Skrtel, 38 Flanagan, 44 Smith, 56 Randall, 57 Maguire, 58 Cleary, 87 Masterson\nMIDFIELDERS:\nMilner, 10 Coutinho, 14 Henderson, 20 Lallana, 21 Lucas, 23 Can, 24 Allen, 32 Brannagan, 33 Ibe, 40 Kent, 46 Rossiter, 53, J. Teixeira, 54 Ojo, 60 Rodrigues de Souza, 68 Chirivella\nFORWARDS:\n9 Benteke, 11 Firmino, 15 Sturridge, 27 Origi, 28 Ings, 48 Sinclair")
     elif team == "Bournemouth":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Swansea City":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Manchester City":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Manchester United":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Arsenal":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Leicester City":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Norwich City":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Tottenham,":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Crystal Palace":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Newcastle United":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Sunderland":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Watford":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "West Brom":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "West Ham":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Stoke City":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Everton":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Southampton":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Aston Villa":
-      print("At least they're better than chelsea")
+      print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Done":
         break
     else:
