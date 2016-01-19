@@ -2,9 +2,9 @@ while True:
     team = input("What is your favorite team:")
     team = team.title()
     if team == "Chelsea":
-      print("TEAM SHEET:\nGOALKEEPERS:\n")
+      print("TEAM SHEET:\nGOALKEEPERS:\n1 Begovic, 13 Courtois, 27 Blackman, 32 Amelia\nDEFENDERS:\n2 Ivanovic 5 Zouma 6 Baba 15 Djilobodji 24 Cahill 26 Terry 28 Azpilicueta 34 Aina")
     elif team == "Liverpool":
-      print("TEAM SHEET:\nGOALKEEPERS:\n22 Mignolet, 34 Bogdan, 39 Fulton, 52 Ward\DEFENDERS:\n2 Clyne, 3 Jose Enrique, 4 K Touré, 6 Lovren, 12 Gomez, 17 Sakho, 18 Moreno, 19 Caulker, 26 Ilori, 35 Stewart, 37 Skrtel, 38 Flanagan, 44 Smith, 56 Randall, 57 Maguire, 58 Cleary, 87 Masterson\nMIDFIELDERS:\nMilner, 10 Coutinho, 14 Henderson, 20 Lallana, 21 Lucas, 23 Can, 24 Allen, 32 Brannagan, 33 Ibe, 40 Kent, 46 Rossiter, 53, J. Teixeira, 54 Ojo, 60 Rodrigues de Souza, 68 Chirivella\nFORWARDS:\n9 Benteke, 11 Firmino, 15 Sturridge, 27 Origi, 28 Ings, 48 Sinclair")
+      print("TEAM SHEET:\nGOALKEEPERS:\n22 Mignolet, 34 Bogdan, 39 Fulton, 52 Ward\nDEFENDERS:\n2 Clyne, 3 Jose Enrique, 4 K Touré, 6 Lovren, 12 Gomez, 17 Sakho, 18 Moreno, 19 Caulker, 26 Ilori, 35 Stewart, 37 Skrtel, 38 Flanagan, 44 Smith, 56 Randall, 57 Maguire, 58 Cleary, 87 Masterson\nMIDFIELDERS:\nMilner, 10 Coutinho, 14 Henderson, 20 Lallana, 21 Lucas, 23 Can, 24 Allen, 32 Brannagan, 33 Ibe, 40 Kent, 46 Rossiter, 53, J. Teixeira, 54 Ojo, 60 Rodrigues de Souza, 68 Chirivella\nFORWARDS:\n9 Benteke, 11 Firmino, 15 Sturridge, 27 Origi, 28 Ings, 48 Sinclair")
     elif team == "Bournemouth":
       print("TEAM SHEET:\nGOALKEEPERS:\n")
     elif team == "Swansea City":
