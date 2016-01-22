@@ -1,0 +1,49 @@
+print ("This is a program to see the teamsheets of Ligue 1 teams\nType Done when you are finished")
+while True:
+    team = input("Put in the name of a Ligue 1 team:")
+    team = team.title()
+    if team == "PSG" or "Paris Saint Germain::
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Lyon":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Bournemouth":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Swansea City":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Manchester City":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Manchester United":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Arsenal":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Leicester City" or "Leicester":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Norwich City":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Tottenham":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Crystal Palace":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Newcastle United":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Sunderland":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Watford":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "West Brom":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "West Ham":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Stoke City":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Everton":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Southampton":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Aston Villa":
+      print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
+    elif team == "Done":
+        break
+    else:
+      print("Put a team")
+    
