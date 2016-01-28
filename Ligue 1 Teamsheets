@@ -4,25 +4,25 @@ while True:
     team = team.title()
     if team == "PSG" or "Paris Saint Germain::
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Lyon":
+    elif team == "Lyon" or "Olympique Lyon":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Bournemouth":
+    elif team == "Olympique de Marseille" or "OM" or "Olympique Marseille":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Swansea City":
+    elif team == "AS Saint-Etienne" or "Saint-Etienne" or "Saint Etienne":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Manchester City":
+    elif team == "AS Monaco FC" or "Monaco" or "AS Monaco":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Manchester United":
+    elif team == "FC Nantes" or "Nantes":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Arsenal":
+    elif team == "Lille OSC" or "Lille":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Leicester City" or "Leicester":
+    elif team == "Stade Malherbe Caen" or "Caen":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Norwich City":
+    elif team == "Angers SCO" or "Angers":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Tottenham":
+    elif team == "FC Girondins de Bordeaux" or "Bordeaux":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Crystal Palace":
+    elif team == "OGC Nice" or "Nice":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
     elif team == "Newcastle United":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
