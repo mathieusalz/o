@@ -24,23 +24,23 @@ while True:
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
     elif team == "OGC Nice" or "Nice":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Newcastle United":
+    elif team == "Montpellier HSC":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Sunderland":
+    elif team == "Gazélec Ajaccio":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Watford":
+    elif team == "SC Bastia":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "West Brom":
+    elif team == "Toulouse FC":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "West Ham":
+    elif team == " ":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Stoke City":
+    elif team == " ":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Everton":
+    elif team == "":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Southampton":
+    elif team == "":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
-    elif team == "Aston Villa":
+    elif team == " ":
       print("TEAM SHEET:\nGOALKEEPERS:\n\nMIDFIELDERS:\n\nFORWARDS:\n")
     elif team == "Done":
         break
